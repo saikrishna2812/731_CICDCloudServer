@@ -609,10 +609,6 @@
     "version" : "Latest",
     "type" : "context"
   }, {
-    "id" : "_cluk4HBzEeqI-uIWkYcjjw",
-    "version" : "Latest",
-    "type" : "joblet"
-  }, {
     "id" : "_Bhs8YGWHEeqj2MHbqi6BiQ",
     "version" : "Latest",
     "type" : "property"
@@ -642,10 +638,6 @@
     "type" : "routine"
   }, {
     "id" : "DqStringHandling",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "MDM",
     "version" : "Latest",
     "type" : "routine"
   }, {
@@ -920,16 +912,5 @@
     "id" : "TalendStringUtil",
     "version" : "Latest",
     "type" : "routine"
-  } ]
-}, {
-  "baseItem" : {
-    "id" : "_FRzB8ITYEeqVmqum08qWWw",
-    "version" : "0.1",
-    "type" : "test_case"
-  },
-  "relatedItems" : [ {
-    "id" : "_97rOcGr4EeqkNZmO_-H_hg",
-    "version" : "0.1",
-    "type" : "test_case"
   } ]
 } ]
