@@ -1503,15 +1503,4 @@
     "version" : "Latest",
     "type" : "routine"
   } ]
-}, {
-  "baseItem" : {
-    "id" : "_FAqFAIWQEeqn5alCOlZ5AQ",
-    "version" : "0.1",
-    "type" : "test_case"
-  },
-  "relatedItems" : [ {
-    "id" : "_T7OSIGr9EeqkNZmO_-H_hg",
-    "version" : "0.1",
-    "type" : "test_case"
-  } ]
 } ]
