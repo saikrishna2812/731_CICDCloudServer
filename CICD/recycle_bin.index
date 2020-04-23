@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin" lastUpdate="2020-04-23T13:51:09.643-0400">
+<recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin" lastUpdate="2020-04-23T13:56:37.602-0400">
   <deletedFolders>process/MDM/Talend_Webinar/StewardsipJobs</deletedFolders>
   <deletedFolders>process/MDM/Talend_Webinar</deletedFolders>
   <deletedFolders>process/MDM</deletedFolders>
@@ -31,4 +31,5 @@
   <deletedItems id="_nnIHoIS9Eeq66_Bp1HFaTQ" path="" type="PROCESS"/>
   <deletedItems id="_8m5tMIS9Eeq66_Bp1HFaTQ" path="process/_nnIHoIS9Eeq66_Bp1HFaTQ" type="TEST_CONTAINER"/>
   <deletedItems id="_3ipGEIDAEeq2Up9c1kab1w" path="" type="PROCESS"/>
+  <deletedItems id="_No1g8IV-EeqGnpYQ854Z7A" path="process/_T7OSIGr9EeqkNZmO_-H_hg" type="TEST_CONTAINER"/>
 </recyclebin:RecycleBin>
