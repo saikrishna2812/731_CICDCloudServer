@@ -12,7 +12,6 @@
     <module>code/routines</module>
     <module>code/beans</module>
     <module>jobs/process/simplejob_0.1</module>
-    <module>jobs/process/DqTaskCustomer/deduplicating_0.1</module>
     <module>jobs/joblets/log_0.1</module>
     <module>jobs/process/DqTaskCustomer/stewardship_0.1</module>
     <module>jobs/process/DqTaskCustomer/copy_of_validation_0.1</module>
@@ -22,6 +21,7 @@
     <module>jobs/process/DqTaskCustomer/copy_of_copy_of_deduplicating_0.1</module>
     <module>jobs/process/DqTaskCustomer/j01_filetodatabase_0.1</module>
     <module>jobs/process/DqTaskCustomer/j02_validation_0.1</module>
+    <module>jobs/process/DqTaskCustomer/j03_deduplicating_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
