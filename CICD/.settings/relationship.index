@@ -159,10 +159,6 @@
     "type" : "job"
   },
   "relatedItems" : [ {
-    "id" : "_cluk4HBzEeqI-uIWkYcjjw",
-    "version" : "Latest",
-    "type" : "joblet"
-  }, {
     "id" : "_Bhs8YGWHEeqj2MHbqi6BiQ",
     "version" : "Latest",
     "type" : "property"
@@ -188,10 +184,6 @@
     "type" : "routine"
   }, {
     "id" : "DqStringHandling",
-    "version" : "Latest",
-    "type" : "routine"
-  }, {
-    "id" : "MDM",
     "version" : "Latest",
     "type" : "routine"
   }, {
@@ -1417,16 +1409,5 @@
     "id" : "TalendStringUtil",
     "version" : "Latest",
     "type" : "routine"
-  } ]
-}, {
-  "baseItem" : {
-    "id" : "_S47LcIWHEeqn5alCOlZ5AQ",
-    "version" : "0.1",
-    "type" : "test_case"
-  },
-  "relatedItems" : [ {
-    "id" : "_i2WY0IWEEeqn5alCOlZ5AQ",
-    "version" : "0.1",
-    "type" : "test_case"
   } ]
 } ]
