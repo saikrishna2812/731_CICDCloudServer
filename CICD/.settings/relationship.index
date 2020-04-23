@@ -1481,15 +1481,4 @@
     "version" : "Latest",
     "type" : "routine"
   } ]
-}, {
-  "baseItem" : {
-    "id" : "_seDEIIWKEeqn5alCOlZ5AQ",
-    "version" : "0.1",
-    "type" : "test_case"
-  },
-  "relatedItems" : [ {
-    "id" : "_1qWzUGsKEeqqIqLOkHSilQ",
-    "version" : "0.1",
-    "type" : "test_case"
-  } ]
 } ]
