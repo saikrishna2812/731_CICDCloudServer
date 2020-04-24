@@ -1,37 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin" lastUpdate="2020-04-23T14:30:11.491-0400">
-  <deletedFolders>process/MDM/Talend_Webinar/StewardsipJobs</deletedFolders>
+<recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin" lastUpdate="2020-04-24T07:54:05.602+0000">
   <deletedFolders>process/MDM/Talend_Webinar</deletedFolders>
   <deletedFolders>process/MDM</deletedFolders>
-  <deletedItems id="_cgvOkISoEeq66_Bp1HFaTQ" path="process/_97rOcGr4EeqkNZmO_-H_hg" type="TEST_CONTAINER"/>
-  <deletedItems id="_fSG0EITWEeqVmqum08qWWw" path="process/_KGE5YGLjEeq4S5DjP4RBoA" type="TEST_CONTAINER"/>
-  <deletedItems id="_qyV9EITWEeqVmqum08qWWw" path="process/_KGE5YGLjEeq4S5DjP4RBoA" type="TEST_CONTAINER"/>
-  <deletedItems id="_ApP4YISqEeq66_Bp1HFaTQ" path="process/_97rOcGr4EeqkNZmO_-H_hg" type="TEST_CONTAINER"/>
-  <deletedItems id="_PxwIkISqEeq66_Bp1HFaTQ" path="process/_97rOcGr4EeqkNZmO_-H_hg" type="TEST_CONTAINER"/>
-  <deletedItems id="_8T2CkISiEeq66_Bp1HFaTQ" path="process/_97rOcGr4EeqkNZmO_-H_hg" type="TEST_CONTAINER"/>
-  <deletedItems id="_wjyGIISoEeq66_Bp1HFaTQ" path="process/_97rOcGr4EeqkNZmO_-H_hg" type="TEST_CONTAINER"/>
-  <deletedItems id="_jhW7YITZEeqVmqum08qWWw" path="process/_97rOcGr4EeqkNZmO_-H_hg" type="TEST_CONTAINER"/>
-  <deletedItems id="_ICPB4ITbEeqVmqum08qWWw" path="process/_T7OSIGr9EeqkNZmO_-H_hg" type="TEST_CONTAINER"/>
-  <deletedItems id="_b2XTsITbEeqVmqum08qWWw" path="process/_T7OSIGr9EeqkNZmO_-H_hg" type="TEST_CONTAINER"/>
-  <deletedItems id="_xXx7kIV8EeqGnpYQ854Z7A" path="process/_T7OSIGr9EeqkNZmO_-H_hg" type="TEST_CONTAINER"/>
-  <deletedItems id="_ceuJYIV5EeqGnpYQ854Z7A" path="process/_T7OSIGr9EeqkNZmO_-H_hg" type="TEST_CONTAINER"/>
-  <deletedItems id="_bxurEIV6EeqGnpYQ854Z7A" path="process/_T7OSIGr9EeqkNZmO_-H_hg" type="TEST_CONTAINER"/>
   <deletedItems id="_SbJ8QIWFEeqn5alCOlZ5AQ" path="process/_i2WY0IWEEeqn5alCOlZ5AQ" type="TEST_CONTAINER"/>
   <deletedItems id="_2hy90IWGEeqn5alCOlZ5AQ" path="process/_i2WY0IWEEeqn5alCOlZ5AQ" type="TEST_CONTAINER"/>
   <deletedItems id="_9B4msIWGEeqn5alCOlZ5AQ" path="process/_i2WY0IWEEeqn5alCOlZ5AQ" type="TEST_CONTAINER"/>
   <deletedItems id="_KIQnEIWHEeqn5alCOlZ5AQ" path="process/_i2WY0IWEEeqn5alCOlZ5AQ" type="TEST_CONTAINER"/>
-  <deletedItems id="_4mw6kISnEeq66_Bp1HFaTQ" path="DqTaskCustomer" type="PROCESS"/>
-  <deletedItems id="_i2WY0IWEEeqn5alCOlZ5AQ" path="DqTaskCustomer" type="PROCESS"/>
   <deletedItems id="_S47LcIWHEeqn5alCOlZ5AQ" path="process/_i2WY0IWEEeqn5alCOlZ5AQ" type="TEST_CONTAINER"/>
-  <deletedItems id="_5VioIITTEeqVmqum08qWWw" path="" type="PROCESS"/>
   <deletedItems id="_qNsCwITUEeqVmqum08qWWw" path="process/_5VioIITTEeqVmqum08qWWw" type="TEST_CONTAINER"/>
-  <deletedItems id="_nnIHoIS9Eeq66_Bp1HFaTQ" path="" type="PROCESS"/>
   <deletedItems id="_8m5tMIS9Eeq66_Bp1HFaTQ" path="process/_nnIHoIS9Eeq66_Bp1HFaTQ" type="TEST_CONTAINER"/>
-  <deletedItems id="_3ipGEIDAEeq2Up9c1kab1w" path="" type="PROCESS"/>
-  <deletedItems id="_No1g8IV-EeqGnpYQ854Z7A" path="process/_T7OSIGr9EeqkNZmO_-H_hg" type="TEST_CONTAINER"/>
-  <deletedItems id="_533vgIWLEeqn5alCOlZ5AQ" path="process/_T7OSIGr9EeqkNZmO_-H_hg" type="TEST_CONTAINER"/>
-  <deletedItems id="_-wS00IV8EeqGnpYQ854Z7A" path="DqTaskCustomer" type="PROCESS"/>
   <deletedItems id="_E4W7EIWEEeqn5alCOlZ5AQ" path="process/_-wS00IV8EeqGnpYQ854Z7A" type="TEST_CONTAINER"/>
   <deletedItems id="_OPoQoIV9EeqGnpYQ854Z7A" path="process/_-wS00IV8EeqGnpYQ854Z7A" type="TEST_CONTAINER"/>
-  <deletedItems id="_-ulvMIV9EeqGnpYQ854Z7A" path="process/_T7OSIGr9EeqkNZmO_-H_hg" type="TEST_CONTAINER"/>
 </recyclebin:RecycleBin>
