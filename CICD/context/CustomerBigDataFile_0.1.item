@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="DEV" xmi:id="_5S27UIX2EeqdC_H-cJOmfQ">
+    <contextParameter comment="" name="CustomerBigDataFile_FieldSeparator" prompt="CustomerBigDataFile_FieldSeparator?" promptNeeded="false" type="id_String" value="&quot;;&quot;" xmi:id="_5S27UYX2EeqdC_H-cJOmfQ"/>
+    <contextParameter comment="" name="CustomerBigDataFile_RowSeparator" prompt="CustomerBigDataFile_RowSeparator?" promptNeeded="false" type="id_String" value="&quot;\n&quot;" xmi:id="_5S27UoX2EeqdC_H-cJOmfQ"/>
+    <contextParameter comment="" name="CustomerBigDataFile_Header" prompt="CustomerBigDataFile_Header?" promptNeeded="false" type="id_Integer" value="1" xmi:id="_5S27U4X2EeqdC_H-cJOmfQ"/>
+    <contextParameter comment="" name="CustomerBigDataFile_Encoding" prompt="CustomerBigDataFile_Encoding?" promptNeeded="false" type="id_String" value="US-ASCII" xmi:id="_5S27VIX2EeqdC_H-cJOmfQ"/>
+    <contextParameter comment="" name="CustomerBigDataFile_File" prompt="CustomerBigDataFile_File?" promptNeeded="false" type="id_File" value="C:/Users/Administrator/Desktop/Files/dev/Customer_BigData_POC.csv" xmi:id="_5S27VYX2EeqdC_H-cJOmfQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="PROD" xmi:id="_5S27VoX2EeqdC_H-cJOmfQ">
+    <contextParameter comment="" name="CustomerBigDataFile_FieldSeparator" prompt="CustomerBigDataFile_FieldSeparator?" promptNeeded="false" type="id_String" value="&quot;;&quot;" xmi:id="_5S27V4X2EeqdC_H-cJOmfQ"/>
+    <contextParameter comment="" name="CustomerBigDataFile_RowSeparator" prompt="CustomerBigDataFile_RowSeparator?" promptNeeded="false" type="id_String" value="&quot;\n&quot;" xmi:id="_5S27WIX2EeqdC_H-cJOmfQ"/>
+    <contextParameter comment="" name="CustomerBigDataFile_Header" prompt="CustomerBigDataFile_Header?" promptNeeded="false" type="id_Integer" value="1" xmi:id="_5S27WYX2EeqdC_H-cJOmfQ"/>
+    <contextParameter comment="" name="CustomerBigDataFile_Encoding" prompt="CustomerBigDataFile_Encoding?" promptNeeded="false" type="id_String" value="US-ASCII" xmi:id="_5S27WoX2EeqdC_H-cJOmfQ"/>
+    <contextParameter comment="" name="CustomerBigDataFile_File" prompt="CustomerBigDataFile_File?" promptNeeded="false" type="id_File" value="C:/Users/Administrator/Desktop/Files/dev/Customer_BigData_POC.csv" xmi:id="_5S27W4X2EeqdC_H-cJOmfQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="QA" xmi:id="_5S27XIX2EeqdC_H-cJOmfQ">
+    <contextParameter comment="" name="CustomerBigDataFile_FieldSeparator" prompt="CustomerBigDataFile_FieldSeparator?" promptNeeded="false" type="id_String" value="&quot;;&quot;" xmi:id="_5S27XYX2EeqdC_H-cJOmfQ"/>
+    <contextParameter comment="" name="CustomerBigDataFile_RowSeparator" prompt="CustomerBigDataFile_RowSeparator?" promptNeeded="false" type="id_String" value="&quot;\n&quot;" xmi:id="_5S27XoX2EeqdC_H-cJOmfQ"/>
+    <contextParameter comment="" name="CustomerBigDataFile_Header" prompt="CustomerBigDataFile_Header?" promptNeeded="false" type="id_Integer" value="1" xmi:id="_5S27X4X2EeqdC_H-cJOmfQ"/>
+    <contextParameter comment="" name="CustomerBigDataFile_Encoding" prompt="CustomerBigDataFile_Encoding?" promptNeeded="false" type="id_String" value="US-ASCII" xmi:id="_5S27YIX2EeqdC_H-cJOmfQ"/>
+    <contextParameter comment="" name="CustomerBigDataFile_File" prompt="CustomerBigDataFile_File?" promptNeeded="false" type="id_File" value="C:/Users/Administrator/Desktop/Files/dev/Customer_BigData_POC.csv" xmi:id="_5S27YYX2EeqdC_H-cJOmfQ"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_f7a6ff40-c094-4d0a-a086-12093c653ef1"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>1sPmY3/pHbzH0/F6RLoqR84Cw8Js1FT5+thUVS+aM0hwQ9v3omIG8swhRt6aBnGDW6fmAyJOwSnT&#13;
+ZxCIzucGdw==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_f9e1bf28-7e01-438b-a0f2-8bba3b6f5551"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>5o1V3uVM5MfW06cSj7RZMO2VROK1DRQD64+xoBRgEJVgrsYFvPkV/rTLVzYwrU1wi0ImM8yueZBC&#13;
+9PBCCBrsWQ==</DigestValue></Reference></SignedInfo><SignatureValue>XjoD16QjGWV+Wrl7TlHFAaR7GLOSYKoG/at+G3f7MXVCm7jdOMFjYZPm664lnFBVsH53yYTO9Tsh&#13;
+rNum41B65h+X4GE6wTDhXhEjyQrpx/awx0qALCqaEE3W5GNBkOI929P74r+yf0w9450sLzryFBPK&#13;
+eU7yL2V/WA0ZdJ6bYA/85efVuMlxkcNqvw0B+jPmLJ+GANa2RaVXT7qOwjgbTvQKNav4f1zlR7fj&#13;
+EX2q/9ZOK+k+FtSh4rnNWkpa2samvmz9C1RBMVrKmO6oVkdgk+360ntRr8Uu0bTQQ4Mt8QO5cGRp&#13;
+vvXgoJbW7cf0gBwy5dxituMAomqrljtiOHWuBg==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_f9e1bf28-7e01-438b-a0f2-8bba3b6f5551" Target="#_f7a6ff40-c094-4d0a-a086-12093c653ef1"><Timestamp>2020-04-24 06:43:24</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
