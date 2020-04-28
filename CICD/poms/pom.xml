@@ -16,6 +16,7 @@
     <module>jobs/process/DqTaskCustomer/j01_filetodatabase_0.1</module>
     <module>jobs/process/DqTaskCustomer/j02_validation_0.1</module>
     <module>jobs/process/DqTaskCustomer/j03_deduplicating_0.1</module>
+    <module>jobs/process/simplejobs_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
